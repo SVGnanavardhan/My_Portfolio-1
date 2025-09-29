@@ -1,0 +1,412 @@
+{
+  "basics": {
+    "name": "Gnanavardhan Samudrala",
+    "headline": "",
+    "email": "gnanavardhan360@gmail.com",
+    "phone": "9542714236",
+    "location": "",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://lh3.googleusercontent.com/a/ACg8ocKrb2YxRJya1p5dh6R44pdktXSfzQGo4d918v7BFnu7sKr0KrYR=s96-c",
+      "size": 128,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": ""
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "u73jkondiy19s34gx4o0bwr7",
+          "visible": true,
+          "name": "Smartinternz",
+          "issuer": "",
+          "date": "April 2025 - June 2025",
+          "summary": "<p>This is my certificate :  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://apsche.smartinternz.com/certificate/student/88af00b3fb84b0db25dc34468521c76d\">https://apsche.smartinternz.com/certificate/student/88af00b3fb84b0db25dc34468521c76d</a></p>",
+          "url": {
+            "label": "",
+            "href": "https://apsche.smartinternz.com/"
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "apaogrxs7n0nxekxwro79wwa",
+          "visible": true,
+          "institution": "kallam haranadhareddy institute of technology",
+          "studyType": "B.tech",
+          "area": " Computer Science and Engineering",
+          "score": "8",
+          "date": "August -2023 - April 2027",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "nsuyddosz0ungznkcfwvi84u",
+          "visible": true,
+          "institution": "Nxtwave ",
+          "studyType": " edtech ",
+          "area": "Full-Stack Development and ai",
+          "score": "9",
+          "date": "August 2024-present",
+          "summary": "<p></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.ccbp.in/"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "e2byw4bp6gob2ogzv08cli6c",
+          "visible": true,
+          "company": "smartinternz",
+          "position": "intern",
+          "location": "Short Term Virtual Internship Program",
+          "date": "April 2025 - June 2025",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://apsche.smartinternz.com/"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": [
+        {
+          "id": "kpjkx2t2os4nei4sjmcydwmc",
+          "visible": true,
+          "organization": "Nss",
+          "position": " Branch Lead",
+          "location": "College ",
+          "date": "March 2024 - present ",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "xmg97xhhm48puailuhkwj3p6",
+          "visible": true,
+          "organization": "KALLAM HARANADHAREDDY INSTITUTE OF TECHNOLOGY",
+          "position": "Class Representative (CR)",
+          "location": "College",
+          "date": "March - 2024 - Present",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "f46s3655bo1erqynvxfbm8o4",
+          "visible": true,
+          "organization": "Student Tribe",
+          "position": "Volunteer ",
+          "location": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "mou63jpu8jgxcpvvk1vrdaew",
+          "visible": true,
+          "name": "Hobbies ",
+          "keywords": [
+            "Reading Books"
+          ]
+        },
+        {
+          "id": "bgsgmn01r9k5akeo8jbkll4x",
+          "visible": true,
+          "name": "Sudoko",
+          "keywords": [
+            "Expert"
+          ]
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "cgmrojblqwxtfa9i321ic95r",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 4
+        },
+        {
+          "id": "ggymot39ivcbdo3fyrzig5tz",
+          "visible": true,
+          "name": "Telugu ",
+          "description": "",
+          "level": 5
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "aipbxptjvub638gojwc93maf",
+          "visible": true,
+          "network": "Github",
+          "username": "SVGnanavardhan ",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/SVGnanavardhan"
+          }
+        },
+        {
+          "id": "nx5t58gc6k2n8h6k3toejxbq",
+          "visible": true,
+          "network": "LinkedIn ",
+          "username": "Gnanavardhan Samudrala ",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/venkata-gnanavardhan-samudrala-bb05a8385/"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "hijgm661kxpcu70dkcrnkxl1",
+          "visible": true,
+          "name": " TrafficTelligence",
+          "description": "An intelligent system that predicts traffic volumes using machine learning — factoring in weather, events, and time-based patterns — to power smarter cities",
+          "date": "April 2025 - June 2025",
+          "summary": "",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://apsche.smartinternz.com/"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "h62c8bpufi8yurn7wna8j9hn",
+          "visible": true,
+          "name": "Programming Languages",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "HTML 5",
+            "CSS",
+            "Python",
+            "java basic's",
+            "js basic"
+          ]
+        },
+        {
+          "id": "y66pzz4scbvhouw89nt7s95s",
+          "visible": true,
+          "name": "Tools & Technologies",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "Git",
+            "github"
+          ]
+        },
+        {
+          "id": "x24hjujtfnryqvqi4ln2bpx1",
+          "visible": true,
+          "name": "Machine Learning",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "NumPy",
+            "panda's"
+          ]
+        },
+        {
+          "id": "h0h72ympffudjla4aokr99l3",
+          "visible": true,
+          "name": "Networking",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "TCP/IP",
+            "OSI Model"
+          ]
+        },
+        {
+          "id": "qkdddywzb9gq40pag8yyyfiy",
+          "visible": true,
+          "name": "Data Base",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "SQL"
+          ]
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "bronzor",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#dc2626"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 13.2
+      },
+      "lineHeight": 1,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
